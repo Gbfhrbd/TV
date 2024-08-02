@@ -8,4 +8,4 @@ TU CHIMA
 TU SPORTS
 <img src="./스크린샷 2024-08-02 144323.png" width=90px>
 TUBOX
-<img src="./.png" width=90px>
+<img src="./스크린샷 2024-08-02 144557.png" width=90px>
