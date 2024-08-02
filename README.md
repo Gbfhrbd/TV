@@ -15,3 +15,4 @@ EBS+
 PAX TV
 <img src="./스크린샷 2024-08-02 145612.png" width=90px>
 <img src="./sports_logo.png" width=90px>
+JTBC GOLF
