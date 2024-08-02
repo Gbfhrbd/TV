@@ -12,3 +12,4 @@ TUBOX
 EBS+
 <img src="./스크린샷 2024-08-02 145005.png" width=90px>
 <img src="./스크린샷 2024-08-02 145246.png" width=90px>
+PAX TV
