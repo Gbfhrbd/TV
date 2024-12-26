@@ -1,1 +1,4 @@
 SEOTAIJI.com
+<img src="./Main/df65a96764a753d848af2e241ce15a68e6e6450f.png" width="600px">
+NEWS SEOTAIJI VIDIO MUSIC COMMUNTI[T] GUIDE
+<img src="./Main/7b5603bd9a4f0c21e1568d33e663404061a20a36.png" width="600px">
